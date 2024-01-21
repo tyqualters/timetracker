@@ -1,3 +1,0 @@
-/home/ty/Desktop/Phantom SDK (dev)/TimeTracker/cmake-build-release/CMakeFiles/TimeTracker.dir
-/home/ty/Desktop/Phantom SDK (dev)/TimeTracker/cmake-build-release/CMakeFiles/edit_cache.dir
-/home/ty/Desktop/Phantom SDK (dev)/TimeTracker/cmake-build-release/CMakeFiles/rebuild_cache.dir
