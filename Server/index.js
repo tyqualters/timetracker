@@ -7,7 +7,7 @@ const path = require('path');
 const { readFileSync } = require('fs');
 const express = require('express');
 const sqlite = require('sqlite3').verbose();
-const jwt = require('jose');
+// const jwt = require('jose');
 const { assert } = require('console');
 
 /* Global variables */
