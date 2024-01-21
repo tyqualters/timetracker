@@ -6,6 +6,8 @@ Track your time!
 
 Uses Node.js Express server and a RESTful API.
 
+Dependencies: (Client) raylib, raygui, libcurl, jsoncpp (Server) express.js, sqlite3
+
 ---
 
 YouTube:
